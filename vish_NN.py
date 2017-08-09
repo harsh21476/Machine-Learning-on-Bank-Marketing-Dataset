@@ -135,4 +135,6 @@ WITHOUT ONE-HOTKEY ENCODING:
 * For activation='identity',solver='sgd',
                           hidden_layer_sizes=(8,),max_iter=150,
                           learning_rate='adaptive',learning_rate_init=0.25 -> 0.891064589144
+
+                          p
 '''
