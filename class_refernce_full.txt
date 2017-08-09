@@ -1,0 +1,11 @@
+1,['admin.' 'blue-collar' 'entrepreneur' 'housemaid' 'management' 'retired'
+ 'self-employed' 'services' 'student' 'technician' 'unemployed' 'unknown']
+2,['divorced' 'married' 'single']
+3,['primary' 'secondary' 'tertiary' 'unknown']
+4,['no' 'yes']
+6,['no' 'yes']
+7,['no' 'yes']
+8,['cellular' 'telephone' 'unknown']
+10,['apr' 'aug' 'dec' 'feb' 'jan' 'jul' 'jun' 'mar' 'may' 'nov' 'oct' 'sep']
+15,['failure' 'other' 'success' 'unknown']
+Y,['no' 'yes']
